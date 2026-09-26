@@ -1,34 +1,61 @@
-# Hi, I'm Askar Ibn Azad 👋
-💻 Software Engineer | .NET Developer
+Hi there 👋, I'm Askar Ibn Azad
+💻 Software Engineer | 🌐 .NET Developer | 🚀 Building full-stack enterprise systems
 
-## About Me
-🔧 Building full-stack apps with ASP.NET Core, Angular & React
-🎯 600+ problems solved on HackerRank, LeetCode, Codeforces
-🌍 Worked with clients in Bangladesh, UAE & Saudi Arabia
-📫 Askaribn223@gmail.com | 📱 +880 1751242425
-📌 Dhaka, Bangladesh
+About Me
+I'm a Software Engineer with 5+ years of experience building full-stack enterprise applications. I specialize in ASP.NET Core, Angular, and React, with a strong focus on scalable Web APIs and clean architecture. I've worked with clients across Bangladesh, UAE, and Saudi Arabia.
 
-## Skills
-`C#` `JavaScript` `ASP.NET Core` `Web API` `EF Core` `Angular` `React` `MSSQL` `Git` `Crystal Reports`
+* 🔭 I'm currently working on enterprise modules at Next IT Limited
+* 🌱 I'm currently sharpening my problem-solving skills — 600+ challenges solved
+* 👯 I'm looking to collaborate on full-stack or API-driven projects
+* 💬 Ask me about ASP.NET Core, Angular, React, and MSSQL
+* 📫 How to reach me: [Askaribn223@gmail.com](mailto:Askaribn223@gmail.com)
+* 📌 Based in Dhaka, Bangladesh
 
-## Experience
+My Skills
 
-**Software Engineer** @ Next IT Limited *(Nov 2025 – Present)*
-Full-stack enterprise modules with ASP.NET Core, Angular 18 & MSSQL
+* 🖥️ Programming: C#, JavaScript
+* 🌐 Backend: ASP.NET Core, Web API, EF Core, JWT
+* 🎨 Frontend: Angular, React, HTML, CSS
+* 🗄️ Database: MSSQL, Crystal Reports
+* 🛠️ Tools: Git, ZKTeco SDK
 
-**Senior Software Engineer** @ Royex Technology, Dubai *(Jan 2024 – Mar 2025)*
-E-commerce platform, admin panel & event platform for NEOM
+Experience
 
-**Software Engineer** @ Pixamatics Technology *(Jun 2022 – Dec 2023)*
-Auth systems, RESTful APIs & biometric integrations
+Software Engineer
+Next IT Limited (11/2025 – Present)
 
-**Junior Software Engineer** @ PC Link IT *(Nov 2020 – May 2022)*
-Microfinance system, helpdesk tool & Crystal Reports
+* Built enterprise modules: Account, Inventory, Reservation
+* Used ASP.NET Core Web API, Angular 18, MSSQL
+* Followed Agile with daily scrums and code reviews
 
-## Education
-🎓 BSc in Software Engineering — AIUB (2017)
-🎓 HSC — Notre Dame College (2016)
-🎓 SSC — Anjuman Adarsha Govt. High School (2014)
+Senior Software Engineer
+Royex Technology, Dubai (01/2024 – 03/2025)
 
-## Connect
-[LinkedIn](https://www.linkedin.com/in/MrAskarIbnAzad) · [Email](mailto:Askaribn223@gmail.com)
+* Optimized APIs for a high-traffic e-commerce platform
+* Built an admin panel from scratch with ASP.NET Core MVC
+* Delivered a full-stack event platform for NEOM, Saudi Arabia
+
+Software Engineer
+Pixamatics Technology (06/2022 – 12/2023)
+
+* Built auth system with ASP.NET Identity and JWT
+* Developed RESTful APIs for React and mobile apps
+* Integrated ZKTeco biometric devices for attendance
+
+Junior Software Engineer
+PC Link IT (11/2020 – 05/2022)
+
+* Built a microfinance system for 700+ branches
+* Developed an in-house project tracking tool
+* Redesigned 100+ Crystal Reports
+
+Education
+
+1. BSc in Software Engineering, AIUB — 2017 (CGPA 3.54/4.00)
+2. HSC, Notre Dame College — 2016 (GPA 4.83/5.00)
+3. SSC, Anjuman Adarsha Govt. High School — 2014 (GPA 5.00/5.00)
+
+Connect with Me
+
+* [LinkedIn](https://www.linkedin.com/in/MrAskarIbnAzad)
+* [Email](mailto:Askaribn223@gmail.com)
