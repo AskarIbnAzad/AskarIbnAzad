@@ -11,6 +11,7 @@ I'm a Software Engineer with 5+ years of experience building full-stack enterpri
 * 👯 I'm looking to collaborate on full-stack or API-driven projects
 * 💬 Ask me about ASP.NET Core, Angular, React, and MSSQL
 * 📫 How to reach me: [Askaribn223@gmail.com](mailto:Askaribn223@gmail.com)
+* 📱 WhatsApp or call me: +880 1751242425
 * 📌 Based in Dhaka, Bangladesh
 
 ## My Skills
