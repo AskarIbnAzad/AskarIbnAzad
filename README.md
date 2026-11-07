@@ -1,66 +1,63 @@
-Hi there 👋, I'm Askar Ibn Azad
+# Hi there 👋, I'm Askar Ibn Azad
 
-💻 Software Engineer | 🌐 .NET Developer | 🚀 Building full-stack enterprise systems
+**Software Engineer · .NET & Angular · Learning AWS Cloud**
+
+I build enterprise and e-commerce web applications with **ASP.NET Core, Angular and SQL Server**. I have 5+ years of experience working with clients in Bangladesh, the UAE and Saudi Arabia.
+
+🌐 **Portfolio:** [askaribnazad.github.io](https://askaribnazad.github.io) · 📄 **CV:** [Download PDF](https://askaribnazad.github.io/Askar_Ibn_Azad_CV.pdf)
+
+---
 
 ## About Me
 
-I'm a Software Engineer with 5+ years of experience building full-stack enterprise applications. I specialize in ASP.NET Core, Angular, and React, with a strong focus on scalable Web APIs and clean architecture. I've worked with clients across Bangladesh, UAE, and Saudi Arabia.
+- 🔭 Currently a Software Engineer at **Next IT Limited**, building Account, Inventory and Restaurant Reservation modules
+- ☁️ Currently learning **AWS**: EC2, Linux, Nginx hosting, and EBS snapshots and backups
+- 🧩 Solved **600+** algorithm problems on HackerRank, LeetCode and Codeforces
+- 💬 Ask me about ASP.NET Core, Web APIs, Angular and SQL Server
+- 🤝 Open to .NET, full-stack and cloud-focused roles
+- 📍 Based in Dhaka, Bangladesh
 
-* 🔭 I'm currently working on enterprise modules at Next IT Limited
-* 🌱 I'm currently sharpening my problem-solving skills — 600+ challenges solved
-* 👯 I'm looking to collaborate on full-stack or API-driven projects
-* 💬 Ask me about ASP.NET Core, Angular, React, and MSSQL
-* 📫 How to reach me: [Askaribn223@gmail.com](mailto:Askaribn223@gmail.com)
-* 📱 WhatsApp or call me: +880 1751242425
-* 📌 Based in Dhaka, Bangladesh
+## Tech Stack
 
-## My Skills
-
-* 🖥️ Programming: C#, JavaScript
-* 🌐 Backend: ASP.NET Core, Web API, EF Core, JWT
-* 🎨 Frontend: Angular, React, HTML, CSS
-* 🗄️ Database: MSSQL, Crystal Reports
-* 🛠️ Tools: Git, ZKTeco SDK
+| Area | Technologies |
+| --- | --- |
+| **Languages** | C#, JavaScript, SQL |
+| **Backend** | ASP.NET Core, Web API, ASP.NET MVC, EF Core, ASP.NET Identity, JWT |
+| **Frontend** | Angular 18, React, HTML, CSS |
+| **Database** | MSSQL (stored procedures), Oracle, Crystal Reports |
+| **Tools** | Git, Agile/Scrum, ZKTeco SDK |
+| **Cloud (learning)** | AWS EC2, Linux, Nginx, EBS backups |
 
 ## Experience
 
-**Software Engineer**
-*Next IT Limited (11/2025 – Present)*
+**Software Engineer** · Next IT Limited · *Nov 2025 – Present*
+- Develop and maintain full-stack enterprise modules (Account, Inventory, Restaurant Reservation) with ASP.NET Core Web API, Angular 18 and MSSQL
+- Implement features from SRS/SDD documents in an Agile team, with daily scrums and peer code reviews
 
-* Built enterprise modules: Account, Inventory, Reservation
-* Used ASP.NET Core Web API, Angular 18, MSSQL
-* Followed Agile with daily scrums and code reviews
+**Senior Software Engineer** · Royex Technologies, Dubai (Remote) · *Jan 2024 – Mar 2025*
+- **Houfna:** enhanced a high-traffic e-commerce platform by optimising stored procedures and building scalable Web APIs
+- **Dure Raiders:** built an admin panel from scratch with ASP.NET Core MVC (code-first)
+- **Royex Event Management:** full-stack features delivered for NEOM, Saudi Arabia
 
-**Senior Software Engineer**
-*Royex Technology, Dubai (01/2024 – 03/2025)*
+**Software Engineer** · Pixamatics Technology Ltd. · *Jun 2022 – Dec 2023*
+- Built authentication and authorisation for an HRM system with ASP.NET Identity and JWT
+- Developed RESTful APIs for React and mobile clients
+- Integrated ZKTeco biometric devices for real-time attendance sync
 
-* Optimized APIs for a high-traffic e-commerce platform
-* Built an admin panel from scratch with ASP.NET Core MVC
-* Delivered a full-stack event platform for NEOM, Saudi Arabia
+**Junior Software Engineer** · PC Link IT · *Nov 2020 – May 2022*
+- Developed and maintained a microfinance system for 70+ clients across 700+ branches
+- Built an internal project-tracking tool
+- Redesigned and developed 100+ Crystal Reports
 
-**Software Engineer**
-*Pixamatics Technology (06/2022 – 12/2023)*
+## Education & Certifications
 
-* Built auth system with ASP.NET Identity and JWT
-* Developed RESTful APIs for React and mobile apps
-* Integrated ZKTeco biometric devices for attendance
-
-**Junior Software Engineer**
-*PC Link IT (11/2020 – 05/2022)*
-
-* Built a microfinance system for 700+ branches
-* Developed an in-house project tracking tool
-* Redesigned 100+ Crystal Reports
-
-## Education
-
-1. **BSc in Software Engineering** - AIUB (2017, CGPA 3.54/4.00)
-2. **HSC** - Notre Dame College (2016, GPA 4.83/5.00)
-3. **SSC** - Anjuman Adarsha Govt. High School (2014, GPA 5.00/5.00)
+- 🎓 **BSc in Software Engineering**, American International University–Bangladesh (2017 – 2020, CGPA 3.54/4.00)
+- 📘 **HSC**, Notre Dame College, Mymensingh (2016, GPA 4.83/5.00)
+- 📗 **SSC**, Anjuman Adarsha Govt. High School, Netrokona (2014, GPA 5.00/5.00)
+- 🏅 HackerRank certified: Problem Solving (Intermediate), SQL (Advanced)
 
 ## Connect with Me
 
-* [LinkedIn](https://www.linkedin.com/in/MrAskarIbnAzad)
-* [Email](mailto:Askaribn223@gmail.com)
-
-Feel free to reach out if you have any questions or if you're interested in collaborating on a project!
+[![Portfolio](https://img.shields.io/badge/Portfolio-1e3a8a?style=for-the-badge&logo=googlechrome&logoColor=white)](https://askaribnazad.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mraskaribnazad)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Askaribn223@gmail.com)
